@@ -8,7 +8,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=s4ki3f&count_private=true&theme=tokyonight" />
 
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ki3f" />
+<img align="left" width="40%" hight="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ki3f" />
 
 <!---
 s4ki3f/s4ki3f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
