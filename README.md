@@ -6,7 +6,7 @@
 
 
 
-<img align="left" width="47%" sc="https://github-readme-stats.vercel.app/api?username=s4ki3f&count_private=true&theme=tokyonight" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=s4ki3f&count_private=true&theme=tokyonight" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ki3f" />
 
