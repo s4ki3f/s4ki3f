@@ -12,6 +12,7 @@
 
 #  My Blog posts 
 <!-- BLOG-POST-LIST:START -->
+- [YOLOv8 classification on custom dataset](https://medium.com/@s4ki3f/yolov8-classification-on-custom-dataset-177ee585a47d?source=rss-38b01e4e7344------2)
 <!-- BLOG-POST-LIST:END -->
 <!---
 s4ki3f/s4ki3f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
