@@ -4,11 +4,9 @@
 - 💞️ I’m looking to collaborate on research in Computer Vision, NLP..
 - 📫 How to reach me s4ki3f@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4ki3f)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4ki3f&count_private=true&theme=tokyonight)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4ki3f&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4ki3f&show_icons=true&theme=dracula)
+![S4ki3f's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4ki3f&count_private=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4ki3f)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=s4ki3f&repo=github-readme-stats)]
 <!---
 s4ki3f/s4ki3f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
