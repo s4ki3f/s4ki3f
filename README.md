@@ -8,6 +8,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4ki3f&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4ki3f&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s4ki3f&show_icons=true&theme=dracula)
 <!---
 s4ki3f/s4ki3f is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
