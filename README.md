@@ -4,11 +4,17 @@
 - 💞️ I’m looking to collaborate on research in Computer Vision, NLP..
 - 📫 How to reach me s4ki3f@gmail.com
 
+<img src="https://komarev.com/ghpvc/?username=s4ki3f&views&color=92cce1&style=flat-square"/>
 
+## Favorite Languages ⭐⭐⭐:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=s4ki3f&show_icons=true&locale=en&title_color=cf5975&layout=compact&bg_color=1c1c1c&text_color=D3D3D3" alt="SadiqulSakif" width="70%" /></p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=s4ki3f&count_private=true&theme=tokyonight" />
+## Github Stats 🔥🔥🔥:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=s4ki3f&&show_icons=true&title_color=cf5975&icon_color=92cce1&text_color=D3D3D3&bg_color=1c1c1c" width="70%" /></p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4ki3f" />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=s4ki3f&theme=onedark" alt="SadiqulSakif" width="70%"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=BanerjeeProdipta&row=2&column=3a&theme=onedark" alt="BanerjeeProdipta"  width="70%"/> -->
+</p>
 
 #  My Blog posts 
 <!-- BLOG-POST-LIST:START -->
