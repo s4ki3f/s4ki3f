@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @s4ki3f
+- 👋 Hi, I’m **Saddiqul Sakif**
 - 👀 I’m interested in Machine Learning, Artificial intelligence, Deep Learning, CloudSec and MLOps
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on research in Computer Vision, NLP..
